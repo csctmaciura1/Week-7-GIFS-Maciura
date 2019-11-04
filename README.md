@@ -12,9 +12,9 @@ Time spent: **X** hours spent in total
     - Tested in version:
     - Fixed in version: 
   - [ ] GIF Walkthrough: Highlighted subtitle.
-  - [ ] Steps to recreate: 
+  - [ ] Steps to recreate: Setup page, create main title, upload image file, add sub header. Select subheader and edit background.
   - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+    - [Link 1](https://github.com/csctmaciura1/Week-7-GIFS-Maciura/blob/master/AppleOne.gif)
 1. (Required) Vulnerability Name or ID
   - [ ] Summary: 
     - Vulnerability types:
