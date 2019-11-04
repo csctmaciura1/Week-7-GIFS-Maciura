@@ -26,13 +26,13 @@ Time spent: **X** hours spent in total
     - [Link 1](https://github.com/csctmaciura1/Week-7-GIFS-Maciura/blob/master/AppleTwo.gif)
 1. (Required) Vulnerability Name or ID
   - [ ] Summary: 
-    - Vulnerability types:
+    - Vulnerability types: XSS
     - Tested in version:
     - Fixed in version: 
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
+  - [ ] GIF Walkthrough: Manipulate Image Size
+  - [ ] Steps to recreate: Select Image and alter size properties.
   - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+    - [Link 1](https://github.com/csctmaciura1/Week-7-GIFS-Maciura/blob/master/AppleThree.gif)
 1. (Optional) Vulnerability Name or ID
   - [ ] Summary: 
     - Vulnerability types:
