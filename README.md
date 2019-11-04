@@ -21,9 +21,9 @@ Time spent: **X** hours spent in total
     - Tested in version:
     - Fixed in version: 
   - [ ] GIF Walkthrough: Add more company information, changed font color.
-  - [ ] Steps to recreate: 
+  - [ ] Steps to recreate: Add Text, change text color.
   - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+    - [Link 1](https://github.com/csctmaciura1/Week-7-GIFS-Maciura/blob/master/AppleTwo.gif)
 1. (Required) Vulnerability Name or ID
   - [ ] Summary: 
     - Vulnerability types:
