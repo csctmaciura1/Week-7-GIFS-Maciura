@@ -1,6 +1,6 @@
 # Project 7 - WordPress Pentesting
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 > Objective: Find, analyze, recreate, and document **five vulnerabilities** affecting an old version of WordPress
 
@@ -44,13 +44,13 @@ Time spent: **X** hours spent in total
     - [Link 1](https://github.com/csctmaciura1/Week-7-GIFS-Maciura/blob/master/OnmouseOver.gif)
 1. (Optional) Vulnerability Name or ID
   - [ ] Summary: 
-    - Vulnerability types:
+    - Vulnerability types:XSS
     - Tested in version:
     - Fixed in version: 
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
+  - [ ] GIF Walkthrough: On Mouse Out.
+  - [ ] Steps to recreate: Insert text, colors and background colors and hover away from textt.
   - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php) 
+    - [Link 1](https://github.com/csctmaciura1/Week-7-GIFS-Maciura/blob/master/OnmouseOut.gif) 
 
 ## Assets
 
